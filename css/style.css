@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
 
 :root {
-    --main-color: #ef7819;
+    /* --main-color: #ef7819; */
     --black: #151512;
 }
 
@@ -56,7 +56,7 @@ section {
 }
 
 .heading span {
-    color: var(--main-color);
+    color: #ef7819;
 }
 
 .btn {
@@ -122,7 +122,7 @@ section {
 
 .header .navbar a.active,
 .header .navbar a:hover {
-    color: var(--main-color);
+    color: #ef7819;
 }
 
 .header .icons a,
@@ -135,7 +135,7 @@ section {
 
 .header .icons a:hover,
 .header .icons div:hover {
-    color: var(--main-color);
+    color: #ef7819;
 }
 
 #menu-btn {
@@ -176,7 +176,7 @@ section {
 }
 
 .header .search-form label:hover {
-    color: var(--main-color);
+    color: #ef7819;
 }
 
 .header.active {
@@ -297,8 +297,8 @@ section {
 }
 
 .products .products-slider .box .icons a:hover {
-    background: var(--main-color);
-    color: #fff;
+    background: #ef7819;
+    color: #070707;
 }
 
 .products .products-slider .box .content {
@@ -320,7 +320,7 @@ section {
 .products .products-slider .box .content .price span {
     font-size: 1.5rem;
     font-weight: normal;
-    color: var(--main-color);
+    color: #ef7819;
     text-decoration: line-through;
 }
 
@@ -337,7 +337,7 @@ section {
 
 .about .content h3 {
     font-size: 3rem;
-    color: var(--main-color);
+    color: #ef7819;
 }
 
 .about .content p {
@@ -400,8 +400,8 @@ section {
 }
 
 .arrivals .box-container .box .icons a:hover {
-    background: var(--main-color);
-    color: #fff;
+    background: #ef7819;
+    color: #070707;
 }
 
 .arrivals .box-container .box .content {
@@ -423,7 +423,7 @@ section {
 .arrivals .box-container .box .content .price span {
     font-size: 1.5rem;
     font-weight: normal;
-    color: var(--main-color);
+    color: #ef7819;
     text-decoration: line-through;
 }
 
@@ -447,7 +447,7 @@ section {
 .contact .row form h3 {
     font-size: 3rem;
     padding-bottom: 1rem;
-    color: var(--main-color);
+    color: #ef7819;
 }
 
 .contact .row form .box {
@@ -494,7 +494,7 @@ section {
 
 .blogs .box-container .box .content h3 {
     font-size: 2.5rem;
-    color: var(--main-color);
+    color: #ef7819;
     line-height: 1.8;
 }
 
@@ -515,11 +515,11 @@ section {
 
 .blogs .box-container .box .content .icons a {
     font-size: 1.4rem;
-    color: var(--main-color);
+    color: #ef7819;
 }
 
 .blogs .box-container .box .content .icons a:hover {
-    color: #fff;
+    color: #030303;
 }
 
 .blogs .box-container .box .content .icons a i {
@@ -550,12 +550,12 @@ section {
 }
 
 .footer .box-container .box a:hover {
-    color: var(--main-color);
+    color: #ef7819;
 }
 
 .footer .box-container .box a i {
     padding-right: .5rem;
-    color: var(--main-color);
+    color: #ef7819;
 }
 
 .footer .box-container .box a:hover i {
@@ -574,7 +574,7 @@ section {
 }
 
 .footer .credit span {
-    color: var(--main-color);
+    color: #ef7819;
 }
 
 .menu-top {
