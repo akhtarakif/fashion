@@ -181,7 +181,7 @@ section {
 
 .header.active {
     padding: 2rem 9%;
-    background: #f3c090;
+    background: #5f2603;
 }
 
 .home {
@@ -325,13 +325,13 @@ section {
 }
 
 .about {
-    background: url(../image/about-bt.jpg) no-repeat;
+    background: url(../images/800.jpg) no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .about .content {
-    padding: 13rem 0;
+    padding: 10rem 0;
     max-width: 50rem;
 }
 
@@ -341,8 +341,9 @@ section {
 }
 
 .about .content p {
-    font-size: 1.5rem;
-    color: #000;
+    font-size: 1.7rem;
+    color: #472626;
+    font-weight: bold;
     line-height: 2;
     padding: 1rem 0;
 }
@@ -432,28 +433,23 @@ section {
     flex-wrap: wrap;
 }
 
-.contact .row .map {
-    flex: 1 1 42rem;
-    width: 100%;
-}
-
 .contact .row form {
     flex: 1 1 42rem;
     padding: 2rem;
     text-align: center;
-    background: #222;
+    background: #ef7819;
 }
 
 .contact .row form h3 {
     font-size: 3rem;
     padding-bottom: 1rem;
-    color: #ef7819;
+    color: #faf4f4;
 }
 
 .contact .row form .box {
     width: 100%;
     padding: 1rem 1.2rem;
-    background: var(--black);
+    background: #fff;
     color: #fff;
     font-size: 1.6rem;
     text-transform: none;
@@ -559,7 +555,7 @@ section {
 }
 
 .footer .box-container .box a:hover i {
-    padding-right: 2rem;
+    /* padding-right: .6rem; */
     color: #fff;
 }
 
@@ -777,3 +773,5 @@ section {
     }
 
 }
+
+/* about */
